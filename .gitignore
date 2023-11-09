@@ -1,0 +1,10 @@
+# ignore LaTeX generated auxiliary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS generated file
+.DS_Store
