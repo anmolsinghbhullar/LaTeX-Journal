@@ -6,5 +6,8 @@
 *.fls
 *.fdb_latexmk
 
+# ignore emacs backup files
+*~
+
 # OS generated file
 .DS_Store
