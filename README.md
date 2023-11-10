@@ -20,5 +20,7 @@ You can also just compile `main.tex` in a LaTeX IDE of your choice.
 
 I tried to add comments with the more complex parts. So if you have any questions, let me know.
 
+In order to make start the journal at the date of your choice, edit `main.tex` and replace the date on line 12 with the one of your choice.
+
 Not actually going to be updating this with my journal, this is just a template.
 
