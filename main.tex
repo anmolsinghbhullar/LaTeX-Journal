@@ -28,6 +28,13 @@
 \tableofcontents
 \newpage
 
+% outside of pgfcalendar loop bc long-term-goals aren't date dependent
+\phantomsection
+\addcontentsline{toc}{section}{Long term goals}
+\section*{Long term goals}
+\input{long-term-goals.tex}
+\newpage
+
 \pgfcalendar{cal}{\firstdate}{\lastdate}{
     % differentiate between today's date and current date (of count)
     \def\curyear{\d{y}0}
@@ -72,6 +79,6 @@
     % so 2023 results only show if 2023 is over.
     \getmonthlyresults
     \getyearresults
-  }
+}
 
 \end{document}
