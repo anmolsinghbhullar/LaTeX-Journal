@@ -12,7 +12,7 @@ You can also just compile `main.tex` in a LaTeX IDE of your choice.
 
 ### Built With
 
-- [Emacs](https://www.gnu.org/software/emacs/) - Sorry for _that_ person. 
+- [Emacs](https://www.gnu.org/software/emacs/) - Sorry for being _that_ person. 
 - [AUCTeX](https://www.gnu.org/software/auctex/) - An extensible package for writing and formatting TeX files in Emacs.
 - [MacTeX](https://tug.org/mactex/mainpage2023.html) - Port of TeX Live to Macintosh.
 
